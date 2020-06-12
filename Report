@@ -1,2 +1,4 @@
 The introduction:
 Ali is an investor in 2018, he wants to invest in calluses but he is so smart and cautious, he  has 3 choices: Coarse wool, Fine wool and cotton. He decided to find a data scientist to help him to predict the price of the three materials so he invests in the best selling material and gain a bigger amount of money.
+The data:
+The data is from Kaggle website it was uploaded by Michael Scott, Agricultural Raw Material prices (1990-2020), i only took the calluses data from it and calculated the Prices through 10 years from 2007 to 2017 to avoid the missing data problem (90% missing after 2017) and also data before that time will be meaningless.
